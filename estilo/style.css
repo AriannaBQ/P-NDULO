@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+    background:linear-gradient(to right,rgb(159, 25, 196),rgb(188, 170, 220));
+}
+img
+{
+    width: 400px;
+}
+h2
+{
+   font-family: “Kaufman BT”;
+   color: rgb(85, 29, 138);
+}
+h1
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(65, 22, 106);
+   font-size: 70px
+
+}
